@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: boksooni
-          GIST_ID: aeb1ca00e668da5f77a4d6e447a4e83b
+          GIST_ID: 18290b10f24d5894cd94c1957c85967b
